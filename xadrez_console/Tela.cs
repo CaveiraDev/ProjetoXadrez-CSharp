@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using tabuleiro;
+using xadrez;
 namespace xadrez_console
 {
     internal class Tela
